@@ -16,10 +16,10 @@ The project consists of three main parts:
 ## Tools Used
 
 **Data Cleaning:** Python / Pandas
-
 **Data Visualisation:** Microsoft Power BI
-
 **AI Agent:** LM Studio + Qwen3
+**AI Agent UI:** Streamlit
+**Development & Version Control:** Git / GitHub
 
 ---
 
@@ -129,12 +129,5 @@ LM Studio and the required local model must also be running for AI-powered respo
 
 > Note: a. The local Python virtual environment (`.venv`) is excluded from the repository.
 > b. The local Agent models is excluded from the repository.
-
----
-
-
-**AI Agent UI:** Streamlit
-
-**Development & Version Control:** Git / GitHub
 
 ---
