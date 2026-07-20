@@ -112,7 +112,7 @@ LM Studio and the required local model must also be running for AI-powered respo
     │
     ├── agent/                          # AI Agent and Streamlit application
     ├── data_raw/                       # Original datasets
-    ├── data_clean/                     # Cleaned datasets
+    ├── data_clean/                     # Cleaning code: Python
     ├── data_processed/                 # Processed analysis datasets
     ├── powerbi/                        # Power BI dashboard
     ├── Practical Assessment.docx       # Assessment review/documentation
