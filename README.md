@@ -1,5 +1,7 @@
 # TechSolve
-Data Preparation, Power BI Dashboard and Local AI Agent. NOTE: This project only uses Mock data for training purposes. No actual existing company / sensitive data has been included in any files.
+Data Preparation, Power BI Dashboard and Local AI Agent. 
+
+NOTE: This project only uses Mock data for training purposes. No actual existing company / sensitive data has been included in any files.
 
 ## Project Overview
 
@@ -16,9 +18,13 @@ The project consists of three main parts:
 ## Tools Used
 
 **Data Cleaning:** Python / Pandas
+
 **Data Visualisation:** Microsoft Power BI
+
 **AI Agent:** LM Studio + Qwen3
+
 **AI Agent UI:** Streamlit
+
 **Development & Version Control:** Git / GitHub
 
 ---
