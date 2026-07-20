@@ -1,5 +1,5 @@
 # TechSolve
-Data Preparation, Power BI Dashboard and Local AI Agent
+Data Preparation, Power BI Dashboard and Local AI Agent. NOTE: This project only uses Mock data for training purposes.
 
 ## Project Overview
 
@@ -136,13 +136,3 @@ LM Studio and the required local model must also be running for AI-powered respo
 **Development & Version Control:** Git / GitHub
 
 ---
-
-## Assessment Status
-
-✅ Part 1 – Data Preparation: Complete
-
-✅ Part 2 – Power BI Visualisation: Complete
-
-✅ Part 3 – AI Agent: Complete
-
-✅ Written Review: Complete
