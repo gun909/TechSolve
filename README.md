@@ -25,7 +25,7 @@ The project consists of three main parts:
 
 **AI Agent UI:** Streamlit
 
-**Development & Version Control:** Git / GitHub
+**Development & Version Control:** GitHub
 
 ---
 
