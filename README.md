@@ -119,8 +119,8 @@ LM Studio and the required local model must also be running for AI-powered respo
     ├── requirements.txt                # Python dependencies
     └── README.md
 
-> Note: The local Python virtual environment (`.venv`) is excluded from the repository.
-> Note: The local Agent models is excluded from the repository.
+> Note: a) The local Python virtual environment (`.venv`) is excluded from the repository.
+> b) The local Agent models is excluded from the repository.
 
 ---
 
