@@ -110,9 +110,9 @@ LM Studio and the required local model must also be running for AI-powered respo
 
     TechSolve/
     │
-    ├── agent/                          # AI Agent and Streamlit application
+    ├── agent/                          # AI Agent and App: Python
     ├── data_raw/                       # Original datasets
-    ├── data_clean/                     # Cleaning code: Python
+    ├── data_clean/                     # Data cleaning: Python
     ├── data_processed/                 # Processed analysis datasets
     ├── powerbi/                        # Power BI dashboard
     ├── Practical Assessment.docx       # Assessment review/documentation
