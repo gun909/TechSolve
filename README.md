@@ -117,7 +117,6 @@ LM Studio and the required local model must also be running for AI-powered respo
     ├── powerbi/            # Power BI dashboard
     ├── review/             # Assessment review/documentation
     ├── requirements.txt    # Python dependencies
-    ├── .gitignore
     └── README.md
 
 > Note: The local Python virtual environment (`.venv`) is excluded from the repository.
