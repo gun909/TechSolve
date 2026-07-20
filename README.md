@@ -13,6 +13,14 @@ The project consists of three main parts:
 2. Power BI data visualisation and analysis
 3. AI Agent for natural-language data analysis
 
+## Tools Used
+
+**Data Cleaning:** Python / Pandas
+
+**Data Visualisation:** Microsoft Power BI
+
+**AI Agent:** LM Studio + Qwen3
+
 ---
 
 ## Assessment Overview
@@ -124,13 +132,6 @@ LM Studio and the required local model must also be running for AI-powered respo
 
 ---
 
-## Tools Used
-
-**Data Cleaning:** Python / Pandas
-
-**Data Visualisation:** Microsoft Power BI
-
-**AI Agent:** LM Studio + Qwen3
 
 **AI Agent UI:** Streamlit
 
