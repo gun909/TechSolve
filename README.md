@@ -3,7 +3,7 @@ Data Preparation, Power BI Dashboard and Local AI Agent.
 
 NOTE: This project only uses Mock data for training purposes. No actual existing company / sensitive data has been included in any files.
 
-## Project Overview
+## Project Abstract
 
 This project was completed as part of the Data & AI Specialist Practical Assessment.
 
@@ -14,6 +14,24 @@ The project consists of three main parts:
 1. Data preparation and external data integration
 2. Power BI data visualisation and analysis
 3. AI Agent for natural-language data analysis
+
+---
+
+## Project Structure
+
+    TechSolve/
+    │
+    ├── agent/                          # AI Agent and App: Python
+    ├── data_raw/                       # Original datasets
+    ├── data_clean/                     # Data cleaning: Python
+    ├── data_processed/                 # Processed analysis datasets
+    ├── powerbi/                        # Power BI dashboard
+    ├── Practical Assessment.docx       # Assessment review/documentation
+    ├── requirements.txt                # Python dependencies
+    └── README.md
+
+> Note: a. The local Python virtual environment (`.venv`) is excluded from the repository.
+> b. The local Agent models is excluded from the repository.
 
 ## Tools Used
 
@@ -117,23 +135,5 @@ Run the Streamlit application:
     python -m streamlit run agent/app.py
 
 LM Studio and the required local model must also be running for AI-powered responses.
-
----
-
-## Project Structure
-
-    TechSolve/
-    │
-    ├── agent/                          # AI Agent and App: Python
-    ├── data_raw/                       # Original datasets
-    ├── data_clean/                     # Data cleaning: Python
-    ├── data_processed/                 # Processed analysis datasets
-    ├── powerbi/                        # Power BI dashboard
-    ├── Practical Assessment.docx       # Assessment review/documentation
-    ├── requirements.txt                # Python dependencies
-    └── README.md
-
-> Note: a. The local Python virtual environment (`.venv`) is excluded from the repository.
-> b. The local Agent models is excluded from the repository.
 
 ---
