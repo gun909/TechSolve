@@ -17,7 +17,7 @@ The project consists of three main parts:
 
 ## Tools Used
 
-**Data Cleaning:** Python / Pandas
+**Data Cleaning:** Python (Pandas)
 
 **Data Visualisation:** Microsoft Power BI
 
@@ -33,7 +33,7 @@ The project consists of three main parts:
 
 | Assessment Section | Work Completed | Tool | Status | Evidence |
 |---|---|---|---|---|
-| **Part 1 – Data Preparation** | Cleaned ticket data, removed duplicates/nulls, integrated NZ public holiday data | Python / Pandas | ✅ Complete | GitHub files |
+| **Part 1 – Data Preparation** | Cleaned ticket data, removed duplicates/nulls, integrated NZ public holiday data | Python | ✅ Complete | GitHub files |
 | **Part 2 – Visualisation** | Ticket overview, resolution time, CSAT, holiday impact and priority analysis | Power BI | ✅ Complete | `.pbix` / Screenshots |
 | **Part 3 – AI Agent** | Natural-language dataset Q&A | LM Studio + Qwen3 + Streamlit | ✅ Complete | Python code + Demo video |
 | **Review** | Methodology, tools, challenges, time spent and AI usage | Word / PDF | ✅ Complete | Review document |
