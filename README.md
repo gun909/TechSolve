@@ -110,13 +110,13 @@ LM Studio and the required local model must also be running for AI-powered respo
 
     TechSolve/
     │
-    ├── agent/              # AI Agent and Streamlit application
-    ├── data_raw/           # Original datasets
-    ├── data_clean/         # Cleaned datasets
-    ├── data_processed/     # Processed analysis datasets
-    ├── powerbi/            # Power BI dashboard
-    ├── review/             # Assessment review/documentation
-    ├── requirements.txt    # Python dependencies
+    ├── agent/                          # AI Agent and Streamlit application
+    ├── data_raw/                       # Original datasets
+    ├── data_clean/                     # Cleaned datasets
+    ├── data_processed/                 # Processed analysis datasets
+    ├── powerbi/                        # Power BI dashboard
+    ├── Practical Assessment.docx       # Assessment review/documentation
+    ├── requirements.txt                # Python dependencies
     └── README.md
 
 > Note: The local Python virtual environment (`.venv`) is excluded from the repository.
