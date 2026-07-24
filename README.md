@@ -110,6 +110,7 @@ The lowest average customer satisfaction score identified in the analysis occurr
 ## Part 3 – AI Agent
 
 A local AI-powered data analysis interface was developed to allow users to ask natural-language questions about the dataset.
+DEMO VIDEO: https://youtu.be/s2dCczzrkVE
 
 ### Technology
 
