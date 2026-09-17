@@ -1,3 +1,4 @@
+<img width="1920" height="1040" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/08911e2a-cdb4-4a4e-a1a6-188df7b583c4" />
 # TechSolve
 Data Preparation, Power BI Dashboard and Local AI Agent. 
 
@@ -96,6 +97,9 @@ The analysis includes:
 - Issue complexity analysis
 - Subscription type and contract value analysis
 - Ticket priority analysis
+
+![Uploading Dashboard Overview.png…]()
+
 
 ### Key Findings
 
