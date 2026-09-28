@@ -2,6 +2,8 @@
 Data Preparation, Power BI Dashboard and Local AI Agent. 
 
 NOTE: This project only uses Mock data for training purposes. No actual existing company / sensitive data has been included in any files.
+![Uploading 1782659623383.gif…]()
+
 
 ## Project Abstract
 
