@@ -2,7 +2,7 @@
 Data Preparation, Power BI Dashboard and Local AI Agent. 
 
 NOTE: This project only uses Mock data for training purposes. No actual existing company / sensitive data has been included in any files.
-![Uploading Cloud.png…]()
+<img width="1109" height="1263" alt="Cloud" src="https://github.com/user-attachments/assets/16bc782e-4295-496d-8e65-1c2dc7d8eecd" />
 
 
 ## Project Abstract
