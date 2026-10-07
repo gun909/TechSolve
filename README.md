@@ -99,8 +99,7 @@ The analysis includes:
 - Subscription type and contract value analysis
 - Ticket priority analysis
 
-<img width="1920" height="1040" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/08911e2a-cdb4-4a4e-a1a6-188df7b583c4" />
-
+<img width="1920" height="1040" alt="AI Agent" src="https://github.com/user-attachments/assets/3616591c-3574-40fa-89c6-2d6f23351384" />
 
 ### Key Findings
 
