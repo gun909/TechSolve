@@ -124,6 +124,8 @@ DEMO VIDEO: https://youtu.be/s2dCczzrkVE
 - **User Interface:** Streamlit
 - **Data Analysis:** Python / Pandas
 
+<img width="1920" height="1040" alt="AI Agent" src="https://github.com/user-attachments/assets/ef30770a-57a1-4cb2-9000-9605fb8df166" />
+
 Example questions:
 
 - Give me a data type and shape overview.
