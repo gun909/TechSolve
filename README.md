@@ -99,7 +99,8 @@ The analysis includes:
 - Subscription type and contract value analysis
 - Ticket priority analysis
 
-<img width="1920" height="1040" alt="AI Agent" src="https://github.com/user-attachments/assets/3616591c-3574-40fa-89c6-2d6f23351384" />
+<img width="1920" height="1040" alt="2" src="https://github.com/user-attachments/assets/c953d700-21bf-4c68-9bd0-c0c51ddc46ff" />
+
 
 ### Key Findings
 
@@ -156,7 +157,7 @@ Final Response
      v
  Streamlit
 
-<img width="1920" height="1040" alt="AI Agent" src="https://github.com/user-attachments/assets/ef30770a-57a1-4cb2-9000-9605fb8df166" />
+<img width="1920" height="1040" alt="AI Agent" src="https://github.com/user-attachments/assets/df273e8b-672f-4288-a3fd-503aaaa354b8" />
 
 Example questions:
 
