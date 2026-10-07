@@ -156,7 +156,7 @@ Final Response
      |
      v
  Streamlit
-
+```
 <img width="1920" height="1040" alt="AI Agent" src="https://github.com/user-attachments/assets/df273e8b-672f-4288-a3fd-503aaaa354b8" />
 
 Example questions:
